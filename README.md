@@ -23,7 +23,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: loranger.debian-php-zmq }
+         - { role: cowops.debian-php-zmq }
 
 Tasks
 -----
